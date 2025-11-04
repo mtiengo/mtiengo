@@ -1,9 +1,8 @@
 # Hi, I'm Matheus Tiengo
 
-[<img align="left" alt="matheus-tiengo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mtiengom | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="mtiengo | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="matheus-tiengo | IMDb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/imdb.svg" />][imdb]
+[<img align="left" alt="LinkedIn" width="22px" src="./assets/LinkedInLogo.png" />][linkedin]
+[<img align="left" alt="mtiengom | Gmail" width="24px" src="/assets/Gmail_Icon.png" />][gmail]
+[<img align="left" alt="matheus-tiengo | IMDb" width="32px" src="/assets/IMDB_Logo_2016.svg" />][imdb]
 
 <br>
 <br>
