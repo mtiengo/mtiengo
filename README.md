@@ -1,8 +1,17 @@
 # Hi, I'm Matheus Tiengo
 
-[<img align="left" alt="LinkedIn" width="22px" src="./assets/LinkedInLogo.png" />][linkedin]
-[<img align="left" alt="mtiengom | Gmail" width="24px" src="/assets/Gmail_Icon.png" />][gmail]
-[<img align="left" alt="matheus-tiengo | IMDb" width="32px" src="/assets/IMDB_Logo_2016.svg" />][imdb]
+<p align="left">
+  <a href="https://www.linkedin.com/in/matheus-tiengo/">
+    <img src="./assets/LinkedInLogo.png" alt="LinkedIn" height="24" style="vertical-align:middle;margin-right:8px;" />
+  </a>
+  <a href="mailto:mtiengom@gmail.com">
+    <img src="./assets/Gmail_Icon.png" alt="Gmail" height="24" style="vertical-align:middle;margin-right:8px;" />
+  </a>
+  <a href="https://www.imdb.com/name/nm7742633/">
+    <img src="./assets/IMDB_Logo_2016.svg" alt="IMDb" height="20" style="vertical-align:middle;margin-right:8px;" />
+  </a>
+</p>
+
 
 <br>
 <br>
