@@ -13,9 +13,6 @@
 </p>
 
 
-<br>
-<br>
-
 ## Full-Stack Quality Engineer | Backend Developer - QA Specialist
 
 I'm a Backend Developer and QA Engineer with a unique background: **15 years in the film industry** as an award-winning sound designer before transitioning to tech in 2020. This journey taught me that **quality isn't just about testing - it's about understanding how things are built from the ground up**.
