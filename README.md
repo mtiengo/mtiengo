@@ -18,14 +18,14 @@ My experience leading cross-functional teams in high-pressure film production en
 
 ## What Makes Me Different
 
-**From Cinema to Code:** My background in immersive audio (cinema, VR, games, spatial sound) gave me a perfectionist's eye for detail and a deep understanding of **user experience from every angle** - skills that translate perfectly into quality engineering.
+**From Cinema to Code:** My background in immersive audio (cinema, VR, games, spatial sound) gave me a perfectionist's eye for detail and a deep understanding of **user experience from every angle**, skills that translate perfectly into quality engineering.
 
-**QA Before I Knew It:** In 2016, I worked as **Post-Production Coordinator at Festival do Rio** (Rio de Janeiro International Film Festival), where I performed **QA validation on digital film deliverables** - verifying codecs, audio sync, subtitles, and packaging formats (DCP). I designed testing checklists, detected media inconsistencies, and troubleshot audiovisual failures under tight festival deadlines. **I was doing quality assurance before I even knew what QA Engineering was!**
+**QA Before I Knew It:** In 2016, I worked as **Post-Production Coordinator at Festival do Rio** (Rio de Janeiro International Film Festival), where I performed **QA validation on digital film deliverables**: verifying codecs, audio sync, subtitles, and packaging formats (DCP). I designed testing checklists, detected media inconsistencies, and troubleshot audiovisual failures under tight festival deadlines. **I was doing quality assurance before I even knew what QA Engineering was.**
 
-**Full-Cycle Perspective:** I don't just test software - I understand how it's built. With 4+ years of backend development and QA experience, I can:
-- Identify potential issues early in the development cycle
-- Write better automation frameworks that mirror real-world architecture
-- Communicate effectively with developers (I've been one!)
+**Full-Cycle Perspective:** I don't just test software. I understand how it's built. With 4+ years of backend development and QA experience, I can:
+- Identify potential issues early in the development cycle.
+- Write better automation frameworks that mirror real-world architecture.
+- Communicate effectively with developers (I've been one!).
 
 **Trilingual Communicator:** Native-level fluency in Portuguese and English. Advanced fluency in Spanish. Comfortable working with international, distributed teams.
 
@@ -36,11 +36,11 @@ My experience leading cross-functional teams in high-pressure film production en
 ### [Selenium Test Automation Framework](https://github.com/mtiengo/selenium-test-automation-framework) *Work in Progress*
 
 A modern, scalable test automation framework built with:
-- **Page Object Model (POM)** architecture with instance-based design (parallel-test ready)
-- **Facade Pattern** for clean, maintainable code
-- Java 21 + Selenium 4 + TestNG
-- Multi-browser support via WebDriverManager
-- Built-in screenshot capture on test failures
+- **Page Object Model (POM)** architecture with instance-based design (parallel-test ready).
+- **Facade Pattern** for clean, maintainable code.
+- Java 21 + Selenium 4 + TestNG.
+- Multi-browser support via WebDriverManager.
+- Built-in screenshot capture on test failures.
 
 *Currently expanding test coverage and adding CI/CD integration via GitHub Actions.*
 
@@ -61,10 +61,10 @@ A modern, scalable test automation framework built with:
 
 ## Currently Learning
 
-- Advanced Test Automation Patterns
-- Performance Testing (JMeter, k6)
-- API Testing at Scale
-- Japanese and German
+- Advanced Test Automation Patterns.
+- Performance Testing (JMeter, k6).
+- API Testing at Scale.
+- Japanese and German.
 
 ---
 
@@ -105,16 +105,16 @@ Fluency certification in English
 [IMDb Profile](https://www.imdb.com/name/nm7742633/) - Award-winning work in immersive audio, VR, and games.
 
 **Post-Production Coordinator** | Festival do Rio (Rio Int'l Film Festival) | *2016*  
-Performed QA validation on digital film deliverables, designed testing checklists, and troubleshot audiovisual failures under tight deadlines - **quality assurance before I knew it was a tech career!**
+Performed QA validation on digital film deliverables, designed testing checklists, and troubleshot audiovisual failures under tight deadlines.
 
 ---
 
 ## What I'm Looking For
 
 I'm actively seeking opportunities where I can contribute as:
-- **QA Engineer / SDET** - Building robust automation frameworks
-- **Backend Developer** - Solving complex problems with clean, maintainable code
-- **Full-Stack Quality Engineer** - Bridging the gap between development and quality assurance
+- **QA Engineer / SDET** - Building robust automation frameworks.
+- **Backend Developer** - Solving complex problems with clean, maintainable code.
+- **Full-Stack Quality Engineer** - Bridging the gap between development and quality assurance.
 
 I'm looking for a place where quality is a first-class citizen, not an afterthought - and where my unique background adds value to the team.
 
@@ -122,28 +122,25 @@ I'm looking for a place where quality is a first-class citizen, not an afterthou
 
 ## Location & Availability
 
-📍 Based in Rio de Janeiro, Brazil  
-Available for remote opportunities worldwide  
-Comfortable working across time zones with international teams
+📍 Based in Rio de Janeiro, Brazil.
+Available for remote opportunities worldwide.  
+Comfortable working across time zones with international teams.
 
 ---
 
 ## Get in Touch
 
 I'm open to discussing:
-- Quality engineering best practices
-- Test automation architecture
-- Backend development challenges
-- Career transitions (cinema to tech was quite the journey)
-- Anything related to immersive audio or film production
+- Quality engineering best practices.
+- Test automation architecture.
+- Backend development challenges.
+- Career transitions (cinema to tech was quite the journey).
+- Anything related to immersive audio or film production.
 
 **Contact:** [mtiengom@gmail.com](mailto:mtiengom@gmail.com) | [LinkedIn](https://www.linkedin.com/in/matheus-tiengo/)
 
 ---
 
-<p align="center">
-  <i>"Quality is not an act, it is a habit." - Aristotle</i>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mtiengo&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
