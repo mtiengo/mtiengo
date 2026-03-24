@@ -64,15 +64,6 @@ A modern, scalable test automation framework built with:
 
 ---
 
-## Currently Learning
-
-- Advanced Test Automation Patterns.
-- Performance Testing (JMeter, k6).
-- API Testing at Scale.
-- Japanese and German.
-
----
-
 ## Education & Certifications
 
 ### **Education**
@@ -119,15 +110,15 @@ Performed QA validation on digital film deliverables, designed testing checklist
 I'm actively seeking opportunities where I can contribute as:
 - **QA Engineer / SDET** - Building robust automation frameworks.
 - **Backend Developer** - Solving complex problems with clean, maintainable code.
-- **Full-Stack Quality Engineer** - Bridging the gap between development and quality assurance.
+- **Full-Stack Quality Engineer** - Bridging development and quality assurance.
 
-I'm looking for a place where quality is a first-class citizen, not an afterthought - and where my unique background adds value to the team.
+I'm looking for a place where quality is a first-class citizen, not an afterthought, and where my unique background adds value to the team.
 
 ---
 
 ## Location & Availability
 
-📍 Based in Rio de Janeiro, Brazil.
+Based in Rio de Janeiro, Brazil.
 Available for remote opportunities worldwide.  
 Comfortable working across time zones with international teams.
 
