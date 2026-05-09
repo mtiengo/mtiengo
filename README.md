@@ -13,26 +13,25 @@
 </p>
 
 
-## QA Engineer | Backend-Focused Software Quality Specialist
+## QA Automation Engineer | From cinema post-production to software QA
 
-I'm a QA Engineer with a unique background: **14 years in the film industry** as an award-winning sound designer before transitioning to tech. This journey taught me that **quality isn't just about testing - it's about understanding how things are built from the ground up**.
+QA Automation Engineer experienced in building test automation frameworks and validating complex backend systems. My technical stack spans Java (8–17+), Python, .NET (Framework to 8.0), Selenium, Playwright, Pytest, REST Assured and Postman, with CI/CD integration via GitHub Actions and Jenkins. I led Java and .NET migration initiatives across multiple backend systems, resolving API deprecations and modernizing legacy code. 
 
-My experience leading cross-functional teams in high-pressure film production environments translates directly into software: **attention to detail, collaborative problem-solving, and delivering precise results under tight deadlines**.
+I also contributed to QA initiatives that integrated AI tooling into testing workflows, using LLMs to generate test cases, analyze logs, and identify edge cases in real-world GitHub patches across Java, Python, Go, and .NET codebases. 
+
+My current portfolio project is a Java/TestNG framework with Page Object Model architecture, parallel execution, cross-browser support, and ExtentReports — built from scratch to keep my framework design skills sharp.
+ 
+On the infrastructure side, I'm comfortable with Docker, Kubernetes, AWS and Azure, backed by a MultiCloud DevOps & AI certification (The Cloud Bootcamp, 2025).
 
 ---
 
 ## What Makes Me Different
 
-**From Cinema to Code:** My background in immersive audio (cinema, VR, games, spatial sound) gave me a perfectionist's eye for detail and a deep understanding of **user experience from every angle**, skills that translate perfectly into quality engineering.
+**Where I'm Coming From:** Before tech, I spent 15 years as a sound designer in Brazilian cinema, an environment that sharpened my attention to detail, cross-functional collaboration, and delivery under pressure. 
 
-**QA Before I Knew It:** In 2016, I worked as **Post-Production Coordinator at Festival do Rio** (Rio de Janeiro International Film Festival), where I performed **QA validation on digital film deliverables**: verifying codecs, audio sync, subtitles, and packaging formats (DCP). I designed testing checklists, detected media inconsistencies, and troubleshot audiovisual failures under tight festival deadlines. **I was doing quality assurance before I even knew what QA Engineering was.**
+**QA Before I Knew It:** In 2016, I worked as **Post-Production Coordinator at Festival do Rio** (Rio de Janeiro International Film Festival). That experience included QA validation on digital film deliverables for Festival do Rio, checking codecs, audio sync, and DCP packaging across hundreds of films under festival deadlines. It was QA in everything but name, and it's where my eye for defects was trained long before I wrote my first test script.
 
-**Full-Cycle Perspective:** I don't just test software. I understand how it's built. With hands-on backend development and QA experience, I can:
-- Identify potential issues early in the development cycle.
-- Write better automation frameworks that mirror real-world architecture.
-- Communicate effectively with developers — I understand their workflow and constraints.
-
-**Trilingual Communicator:** Native-level fluency in Portuguese and English. Advanced fluency in Spanish. Comfortable working with international, distributed teams.
+**Trilingual Communicator:** Native fluency in Portuguese, fluent English (Cambridge CAE / C1), advanced Spanish. Comfortable working with international, distributed teams.
 
 ---
 
@@ -56,12 +55,13 @@ A modern, scalable test automation framework built from scratch with:
 
 | Category | Technologies |
 |----------|-------------|
-| **Backend Development** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Familiar with** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Test Automation** | ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![TestNG](https://img.shields.io/badge/-TestNG-FF6C37?style=flat&logo=testng&logoColor=white) ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white) ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
-| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+| **Primary Languages** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Also Worked With** | ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Frameworks & Build Tools** | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat&logo=apachemaven&logoColor=white) |
+| **Test Automation** | ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) ![TestNG](https://img.shields.io/badge/-TestNG-FF6C37?style=flat&logo=testng&logoColor=white) ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white) ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white) ![REST Assured](https://img.shields.io/badge/-REST%20Assured-009639?style=flat&logo=java&logoColor=white) |
+| **Databases & SQL** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
 
 ---
 
@@ -82,7 +82,7 @@ Universidade Federal Fluminense (UFF) | 2010 - 2015
 
 ---
 
-### **Recent Certifications & Courses**
+### **Certifications & Courses**
 
 **Intensive Multicloud, DevOps & AI Bootcamp** | The Cloud Bootcamp | *Jan 2025*
 Multicloud infrastructure, CI/CD pipelines, and AI integration workflows across AWS, Azure, and GCP
@@ -115,8 +115,6 @@ Performed QA validation on digital film deliverables, designed testing checklist
 
 I'm actively seeking opportunities where I can contribute as:
 - **QA Engineer / SDET** - Building robust automation frameworks.
-- **Backend Developer** - Solving complex problems with clean, maintainable code.
-- **Full-Stack Quality Engineer** - Bridging development and quality assurance.
 
 I'm looking for a place where quality is a first-class citizen, not an afterthought, and where my unique background adds value to the team.
 
@@ -124,9 +122,10 @@ I'm looking for a place where quality is a first-class citizen, not an afterthou
 
 ## Location & Availability
 
-Based in Rio de Janeiro, Brazil.
+Based in Rio de Janeiro, Brazil. 
 Available for remote opportunities worldwide.
-Comfortable working across time zones with international teams.
+Available for on-site opportunities in Rio.
+Comfortable working across US and EUR time zones with international teams.
 
 ---
 
@@ -135,9 +134,9 @@ Comfortable working across time zones with international teams.
 I'm open to discussing:
 - Quality engineering best practices.
 - Test automation architecture.
-- Backend development challenges.
+- Backend testing and integration challenges.
 - Career transitions (cinema to tech was quite the journey).
-- Anything related to immersive audio or film production.
+- Technology, immersive audio, games or film production.
 
 **Contact:** [mtiengom@gmail.com](mailto:mtiengom@gmail.com) | [LinkedIn](https://www.linkedin.com/in/matheus-tiengo/)
 
